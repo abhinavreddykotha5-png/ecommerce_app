@@ -5,7 +5,7 @@ import Listing from "./pages/Listing";
 import CartPage from "./pages/Cart";
 import Header from "./components/Header";
 
-const API = import.meta.env.VITE_API || "http://localhost:4000";
+const API = import.meta.env.VITE_API_URL || "http://localhost:4000";
 
 function App(){
   const [token, setToken] = useState(localStorage.getItem("token"));

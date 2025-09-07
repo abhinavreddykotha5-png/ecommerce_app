@@ -1,13 +1,17 @@
-# E-commerce Assignment
+# ecommerce_app
 
-Local run:
-- Backend: `cd server && npm install && npm start`
-- Frontend: `cd client && npm install && npm run dev`
+**Project type (auto-detected):** Unknown / Generic
 
-Deploy:
-- Backend: Render / Railway / Fly
-- Frontend: Vercel / Netlify
+## About
 
-Environment variables:
-- JWT_SECRET (in server)
-- VITE_API_URL (in client for production)
+A short description of the project.
+
+## How to run (example)
+
+1. Install dependencies (if Node): `npm install` or `yarn`
+2. Start dev server: `npm start` or `npm run dev`
+3. For Python apps: create virtualenv and `pip install -r requirements.txt`
+
+## Notes
+
+Add any special instructions, env variables, or build steps here.
