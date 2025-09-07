@@ -1,17 +1,29 @@
-# ecommerce_app
+# E-commerce App (Assignment)
 
-**Project type (auto-detected):** Unknown / Generic
+Live Demo: https://ecommerce-app-sigma-umber.vercel.app/  
+GitHub Repo: https://github.com/abhinavreddykotha5-png/ecommerce_app  
+
+---
 
 ## About
+A simple full stack e commerce web app built as part of an assignment.  
+Features:
+- User signup/login with JWT
+- Product listing with filters and search
+- Add/remove items in cart (cart persists after logout)
+- Modern UI with light/dark theme
+- Backend with Express + lowdb, deployed on Render
+- Frontend with React + Vite, deployed on Vercel
 
-A short description of the project.
+---
 
-## How to run (example)
+## Run locally
+# Backend
+cd server
+npm install
+npm start
 
-1. Install dependencies (if Node): `npm install` or `yarn`
-2. Start dev server: `npm start` or `npm run dev`
-3. For Python apps: create virtualenv and `pip install -r requirements.txt`
-
-## Notes
-
-Add any special instructions, env variables, or build steps here.
+# Frontend
+cd client
+npm install
+npm run dev
