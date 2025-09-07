@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "TR7EHZtgcOMNyDQdN3dpk",
+      "name": "abhinav",
+      "email": "abhi@com.com",
+      "password": "$2a$08$IHmUDJrzFyy0L30HVYbyxe9Yxq9TIM4ghPAn0.6eBgCrQQ8l3/Q9S"
+    },
+    {
+      "id": "o7Wa9p4ITNNrE6q6CzZ-9",
+      "name": "abhi",
+      "email": "abhi@com",
+      "password": "$2a$08$dC5RXUNh9wdovfKQMkCJAO7kgEYrY7u6/CH9o9ULZawdoKUYw4e0e"
+    }
+  ],
+  "items": [
+    {
+      "id": "WRUNfEBKxosh9rEO11VO9",
+      "title": "Vintage Backpack",
+      "description": "Minimalist vintage backpack. 20L capacity.",
+      "price": 29.99,
+      "category": "Bags",
+      "image": "/img/backpack.jpg"
+    },
+    {
+      "id": "5QMqa_YWaxgsgQgBeNrAx",
+      "title": "Classy Watch",
+      "description": "Elegant analog watch for daily wear.",
+      "price": 89.99,
+      "category": "Accessories",
+      "image": "/img/watch.jpg"
+    },
+    {
+      "id": "Cdt3vrAlQKq1p4Z7-U77P",
+      "title": "Running Shoes",
+      "description": "Comfortable running shoes.",
+      "price": 59.99,
+      "category": "Shoes",
+      "image": "/img/shoes.jpg"
+    },
+    {
+      "id": "XL0rFwlqr6hDYRwYd2fRx",
+      "title": "Cotton T-Shirt",
+      "description": "Soft cotton t-shirt.",
+      "price": 12.5,
+      "category": "Clothing",
+      "image": "/img/tshirt.jpg"
+    }
+  ],
+  "cart": []
+}
